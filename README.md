@@ -49,6 +49,8 @@ Table of Contents
    * [Data mining](#data-mining)
 
 ## Source Code Repos
+### details
+#### content
 
   * https://bitbucket.org/ - Unlimited public and private git repos for small teams
   * http://chiselapp.com/ - Unlimited public and private Fossil repositories
